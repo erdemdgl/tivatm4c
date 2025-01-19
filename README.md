@@ -12,7 +12,6 @@ Documentation & Comments: Source code includes explanations and details within c
 
 
 Requirements:
-
 Compiler/IDE: TI Code Composer Studio (CCS).
 
 TivaWare: TivaWare for C Series library (provided by TI).
