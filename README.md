@@ -22,6 +22,7 @@ Hardware: Tiva TM4C123G LaunchPad, 2x16 LCD, Breadbord, Potentiometer, USB Cable
 Optional: PuTTY and SharpDevelop for UART
 
 **PROJECT FILES:**
+
 1 - Print on LCD: In this projects, lcd.c and lcd.h files has been used for every LCD project. This project show you that can easily print text on LCD.
 
 2 - Timer and LCD: Timer0 has been used for project. Time has been started on 0 and every 1 second LCD screen has been updated with new time.
