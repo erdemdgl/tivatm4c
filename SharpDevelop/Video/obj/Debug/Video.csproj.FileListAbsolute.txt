@@ -1,0 +1,24 @@
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\obj\Debug\Video.csprojResolveAssemblyReference.cache
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\obj\Debug\Video.MainForm.resources
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\obj\Debug\Video.csproj.GenerateResource.Cache
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\bin\Debug\Video.exe.config
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\bin\Debug\Video.exe
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\bin\Debug\Video.pdb
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\obj\Debug\Video.exe
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\obj\Debug\Video.pdb
+D:\Video\Video\bin\Debug\Video.exe.config
+D:\Video\Video\bin\Debug\Video.exe
+D:\Video\Video\bin\Debug\Video.pdb
+D:\Video\Video\obj\Debug\Video.csprojResolveAssemblyReference.cache
+D:\Video\Video\obj\Debug\Video.MainForm.resources
+D:\Video\Video\obj\Debug\Video.csproj.GenerateResource.Cache
+D:\Video\Video\obj\Debug\Video.exe
+D:\Video\Video\obj\Debug\Video.pdb
+C:\Users\erdem\Desktop\Video\Video\bin\Debug\Video.exe.config
+C:\Users\erdem\Desktop\Video\Video\bin\Debug\Video.exe
+C:\Users\erdem\Desktop\Video\Video\bin\Debug\Video.pdb
+C:\Users\erdem\Desktop\Video\Video\obj\Debug\Video.csprojResolveAssemblyReference.cache
+C:\Users\erdem\Desktop\Video\Video\obj\Debug\Video.MainForm.resources
+C:\Users\erdem\Desktop\Video\Video\obj\Debug\Video.csproj.GenerateResource.Cache
+C:\Users\erdem\Desktop\Video\Video\obj\Debug\Video.exe
+C:\Users\erdem\Desktop\Video\Video\obj\Debug\Video.pdb
